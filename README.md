@@ -16,7 +16,6 @@ Feel free to connect with me here:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=express)
-![bash](https://img.shields.io/badge/-bash-black?style=flat-square&logo=bash)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
