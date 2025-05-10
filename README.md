@@ -2,7 +2,7 @@
 
 Hello! I am Alden Chia, a Year 3 [Singapore Polytechnic](https://www.sp.edu.sg/) student pursuing [Diploma in Cybersecurity & Digital Forensics](https://www.sp.edu.sg/soc/courses/full-time-diplomas/Cybersecurity-and-Digital-Forensics/overview). I love writing scripts to make my life easier and have a strong interest in the cybersecurity realm, especially red teaming. Always open to collaborating on projects and innovative/disruptive ideas. 
 
-Personal Website: [time0ut.com](time0ut.com)
+Personal Website: [time0ut.com](https://time0ut.com)
 
 Feel free to connect with me here:
 
