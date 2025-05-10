@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/time0ut07/time0ut07/master/wave.gif" width="30">
 
-Hello! I am Alden Chia, a fresh graduate from [Singapore Polytechnic](https://www.sp.edu.sg/) student, obtaining the [Diploma in Information Security Management](https://www.sp.edu.sg/soc/courses/full-time-diplomas/Cybersecurity-and-Digital-Forensics/overview), currently known as Cybersecurity and Digital Forensics. I love writing scripts to make my life easier and have a strong interest in the cybersecurity realm, especially red teaming. Always open to collaborating on projects and innovative/disruptive ideas. 
+Hello! I am Alden Chia, a fresh graduate from [Singapore Polytechnic](https://www.sp.edu.sg/) student, obtaining the [Diploma in Information Security Management](https://www.sp.edu.sg/soc/courses/full-time-diplomas/Cybersecurity-and-Digital-Forensics/overview) with merit, currently known as Cybersecurity and Digital Forensics. I love writing scripts to make my life easier and have a strong interest in the cybersecurity realm, especially red teaming. Always open to collaborating on projects and innovative/disruptive ideas. 
 
 Personal Website: [time0ut.com](https://time0ut.com)
 
